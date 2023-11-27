@@ -11,10 +11,10 @@
   "dependencies": {
     "@monaco-editor/react": "^4.6.0",
     "@prisma/client": "^5.5.2",
-    "next": "14.0.2",
+    "next": "^14.0.1",
     "prisma": "^5.5.2",
-    "react": "^18",
-    "react-dom": "^18"
+    "react": "^18.3.0-canary-6b3834a45-20231110",
+    "react-dom": "^18.3.0-canary-6b3834a45-20231110"
   },
   "devDependencies": {
     "@types/node": "^20",
